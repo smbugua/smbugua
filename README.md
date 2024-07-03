@@ -5,7 +5,7 @@
 - 📫 How to reach me reach on smbugua11@gmail.com ...
 
 # Cloud engineering
-Cloud Service providers like AWS, GCP, Azure, among others play a vital role in an organisation. I am a subject matter expert in AWS and GCP using major components of both service providers for 7+ years.
+Cloud Service providers like AWS, GCP, Azure, among others play a vital role in an organisation. I am a subject matter expert in AWS and GCP using major components of both service providers for 11+ years.
 
 # IAC Terrafrom,Ansible etc
 I have a good understanding of Infrastructure as Code from using tools like Terraform , Puppet, Chef, Ansible in my day to day tasks. I also automate configuration and setup scodified with Configuration Management tools ie ansible & chef.
