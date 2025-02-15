@@ -47,5 +47,12 @@ I've driven technological advancements across numerous industries, delivering in
 - Government & Public Sector
 
 # GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=smbugua&show_icons=true&theme=radical)
-![Your All-Time Contributions](https://github-readme-streak-stats.herokuapp.com/?user=smbugua&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=smbugua&show_icons=true&theme=tokyonight)
+
+![Your All-Time Contributions](https://github-readme-streak-stats.herokuapp.com/?user=smbugua&theme=tokyonight)
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smbugua&theme=tokyonight)
+
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smbugua&theme=tokyonight&layout=compact)
+
+
