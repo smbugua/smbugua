@@ -48,3 +48,4 @@ I've driven technological advancements across numerous industries, delivering in
 
 # GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=smbugua&show_icons=true&theme=radical)
+![Your All-Time Contributions](https://github-readme-streak-stats.herokuapp.com/?user=smbugua&theme=radical)
