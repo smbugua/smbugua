@@ -1,4 +1,4 @@
-# 🌐 **Simon Mbugua — Principal Cloud & DevOps Architect**
+# 🌐 **Simon Mbugua — Senior Cloud & DevOps Architect**
 
 ### *@smbugua | Cloud • DevOps • AI • Automation*
 
@@ -9,7 +9,7 @@
 ## 🔥 **About Me**
 
 👋 Hi, I'm **Simon Mbugua (@smbugua)**
-**Principal Cloud & DevOps Architect | AI Systems Engineer | 13+ Years Experience**
+**Senior Cloud & DevOps Architect | AI Systems Engineer | 13+ Years Experience**
 
 I design and scale cloud-native infrastructures across AWS, GCP, and Kubernetes, powering businesses from startups to global enterprises.
 My passion lies in **automation, DevOps culture, AI integration, and technical leadership.**
