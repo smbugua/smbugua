@@ -1,4 +1,4 @@
-# 🌐 **Simon Mbugua — Scalability ENgineer | Senior Cloud & DevOps Architect**
+# 🌐 **Simon Mbugua — Scalability Engineer | Senior Cloud & DevOps Architect**
 
 ### *@smbugua | Cloud • DevOps • AI • Automation • Data Engineering • CTO-as-a-Service*
 ---
