@@ -1,19 +1,7 @@
 # 🌐 **Simon Mbugua — Senior Cloud & DevOps Architect**
 
 ### *@smbugua | Cloud • DevOps • AI • Automation • Data Engineering • CTO-as-a-Service*
-
-![Banner](https://capsule-render.vercel.app/api?type=waving\&height=200\&text=Simon%20Mbugua\&fontAlign=50\&fontAlignY=40\&color=0:0a0f24,100:1e1e70\&fontColor=ffffff)
-
 ---
-
-# ⚡ **Animated Coding Corner**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
-</p>
-
----
-
 ## 🔥 **About Me**
 
 👋 Hi, I'm **Simon Mbugua (@smbugua)**
