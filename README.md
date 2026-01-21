@@ -1,171 +1,85 @@
-# 🌐 **Simon Mbugua — Scalability Engineer | Senior Cloud & DevOps Architect**
+# Simon Mbugua
 
-### *@smbugua | Cloud • DevOps • AI • Automation • Data Engineering • CTO-as-a-Service*
----
-## 🔥 **About Me**
+**Senior Cloud & DevOps Architect** • 13+ Years Experience
 
-👋 Hi, I'm **Simon Mbugua (@smbugua)**
-**Senior Cloud & DevOps Architect | AI & Automation Engineer | Data Engineering Specialist | 13+ Years Experience**
+I design and scale cloud-native infrastructures across AWS, GCP, and Kubernetes. Currently focused on AI automation workflows, Databricks pipelines, and helping businesses modernize through CTO-as-a-Service consulting.
 
-I design and scale cloud-native infrastructures across AWS, GCP, Kubernetes, and Databricks.
-My passion: **automation, cloud strategy, AI engineering, ETL pipelines, DevOps culture, developer productivity & technical leadership.**
-
-I also offer **CTO-as-a-Service** — helping businesses architect, scale, and automate their technology.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/smbugua)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:smbugua11@gmail.com)
 
 ---
 
-# 📦 **Sidebar Widgets**
+## What I Do
 
-### **My Workbench**
-
-* 🔭 Building enterprise-grade AI automation workflows
-* ⚙️ Architecting DevOps infrastructure at scale
-* 🧠 Training ML models & building inference APIs
-* 🎛️ Designing end-to-end ETL + Databricks pipelines
-* 🌐 Frontend dashboards using **React + Flask**
-
----
-
-# 🚀 **Quick Stats & Badges**
-
-![Profile Views](https://komarev.com/ghpvc/?username=smbugua\&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/smbugua?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/smbugua?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/smbugua/smbugua?style=for-the-badge)
+```
+Cloud Architecture    →  Multi-cloud design on AWS & GCP, cost optimization, security
+DevOps & Platform     →  Terraform, GitOps, CI/CD pipelines, zero-downtime deployments  
+Kubernetes            →  Production clusters (EKS/GKE), Helm, operators, service mesh
+Data Engineering      →  Databricks, Spark ETL, Airflow, streaming pipelines
+AI/ML Engineering     →  Inference APIs, MLOps, TensorFlow, PyTorch
+```
 
 ---
 
-# 🧰 **Skills Badges**
+## Tech Stack
 
-### **Cloud & DevOps**
+**Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws\&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker\&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FE4A49?logo=argo\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
 
-### **Programming**
+**Languages & Frameworks**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-### **Data Engineering**
+**Data & ML**
 
-![Databricks](https://img.shields.io/badge/Databricks-FC4C02?logo=databricks\&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25C1E?logo=apachespark\&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow\&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Pipelines-blue)
-
-### **Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
 
 ---
 
-# 🧠 **Core Expertise**
+## Certifications
 
-### **Cloud Engineering**
-
-* Architect scalable systems on **AWS & GCP**
-* Multi-cloud design, security, and networking
-* Cost optimization & production reliability engineering
-
-### **DevOps & Automation**
-
-* Terraform, Helm, Puppet, Ansible, Chef
-* CI/CD with GitHub Actions, CircleCI, Jenkins, ArgoCD
-* GitOps workflows & zero-downtime deploys
-
-### **Kubernetes**
-
-* Production-grade clusters (GKE, EKS, Kubeadm)
-* Operators, Helm charts, service mesh, autoscaling
-* Multi-cluster architecture & fleet management
-
-### **Data Engineering**
-
-* Databricks Lakehouse design
-* Spark ETL/ELT pipelines
-* Batch + streaming data workflows
-* Airflow orchestration & data automation
-
-### **AI & Machine Learning**
-
-* TensorFlow, PyTorch, scikit-learn
-* Building ML inference APIs
-* MLOps pipelines & cloud deployment
-
-### **React / Frontend Apps**
-
-* Admin dashboards
-* Monitoring UIs
-* Data visualization tools
-
-### **CTO-as-a-Service**
-
-* Technical leadership & strategy
-* Engineering culture & hiring
-* Cloud/AI modernization
-* Architecture roadmaps
+| Cloud | DevOps | Security |
+|:------|:-------|:---------|
+| AWS Solutions Architect | Certified Kubernetes Administrator | HashiCorp Vault |
+| GCP Professional Cloud Architect | Terraform Associate | RHCE |
+| Azure Fundamentals | | |
 
 ---
 
-# 🏆 **Certifications**
+## Currently Building
 
-✔️ AWS Solutions Architect – Associate
-✔️ GCP Professional Cloud Architect
-✔️ Certified Kubernetes Administrator (CKA)
-✔️ Terraform Associate
-✔️ RHCE – Red Hat Certified Engineer
-✔️ Azure Fundamentals (AZ-900)
-✔️ Vault Certified
+- **AI Automation** — Enterprise-grade customer engagement workflows
+- **Data Platform** — Databricks lakehouse with streaming ETL pipelines
+- **Observability** — OpenTelemetry collectors with multi-backend routing
+- **Platform Engineering** — Self-service developer tooling and GitOps workflows
 
 ---
 
-# 🧩 **Currently Building**
+## Industries
 
-* 🚀 AI-powered customer engagement workflows
-* 📦 Databricks ETL pipelines
-* 🔁 DevOps automation tools
-* 🌐 React-based dashboards
-* ⚡ High-scale cloud-native architectures
+FinTech • EdTech • Cybersecurity • Telecom • Government • Logistics • E-commerce
 
 ---
 
-# 📚 **Now Learning**
+## GitHub Stats
 
-* Rust systems programming
-* AWS Lake Formation
-* Serverless ETL with Step Functions
-* Advanced MLOps patterns
-
----
-
-# 🌍 **Industry Impact**
-
-FinTech • Cybersecurity • Logistics • Telecom • EdTech • Smart Cities
-Government • Media • E-commerce • IoT • Renewable Energy
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smbugua&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smbugua&layout=compact&theme=default&hide_border=true" />
+</p>
 
 ---
 
-# 🤝 **Let’s Collaborate**
-
-I love working on:
-
-* Cloud architecture
-* DevOps modernization
-* AI + automation
-* Kubernetes engineering
-* Databricks pipelines
-* React dashboards
-* CTO-as-a-Service
-
-📫 **Reach me:** `smbugua11@gmail.com`
-
+<sub>Open to consulting, architecture reviews, and interesting infrastructure challenges. Reach out at smbugua11@gmail.com</sub>
