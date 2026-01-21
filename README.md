@@ -73,13 +73,8 @@ FinTech • EdTech • Cybersecurity • Telecom • Government • Logistics �
 
 ---
 
-## GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smbugua&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smbugua&layout=compact&theme=default&hide_border=true" />
-</p>
+<sub>Open to consulting, architecture reviews, and interesting infrastructure challenges. Reach out at smbugua11@gmail.com</sub>
 
 ---
 
-<sub>Open to consulting, architecture reviews, and interesting infrastructure challenges. Reach out at smbugua11@gmail.com</sub>
