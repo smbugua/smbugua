@@ -4,7 +4,7 @@
 
 I design and scale cloud-native infrastructures across AWS, GCP, and Kubernetes. Currently focused on AI automation workflows, Databricks pipelines, and helping businesses modernize through CTO-as-a-Service consulting.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/smbugua)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](http://linkedin.com/in/simon-mbugua-dev))
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:smbugua11@gmail.com)
 
 ---
