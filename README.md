@@ -2,7 +2,7 @@
 
 **Senior Cloud & DevOps Architect & AI/LLM Engineer** • 13+ Years Experience
 
-I design and scale cloud-native infrastructures across AWS, GCP, and Kubernetes, and I build production **LLM / GenAI applications** on top of them. Currently shipping AI products on Anthropic's Claude, running AI automation workflows and Databricks pipelines, delivering LLM trainings for teams across Kenya & Rwanda, and helping businesses modernize through CTO-as-a-Service consulting.
+I design and scale cloud-native infrastructures across AWS, GCP, and Kubernetes, and I build production **LLM / GenAI applications** on top of them. Currently shipping AI products on Anthropic's Claude, running AI automation workflows, and building Databricks data pipelines.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](http://linkedin.com/in/simon-mbugua-dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:smbugua11@gmail.com)
@@ -12,8 +12,6 @@ I design and scale cloud-native infrastructures across AWS, GCP, and Kubernetes,
 ## Featured
 
 **[Transcribez](https://transcribez.xyz)** — AI transcription, translation & CV-tailoring SaaS built on Anthropic's Claude. Live in production with **600+ users** and **~100+ hours of audio** processed through the LLM pipeline. Prompt engineering, structured/segment outputs, multi-language translation, anti-hallucination guardrails, and model routing (Sonnet/Haiku) for quality-vs-cost.
-
-**[VelocityStack](https://velocitystack.xyz)** — my firm: production AI/LLM trainings and CTO-as-a-Service for companies across **Kenya & Rwanda**.
 
 ---
 
@@ -27,7 +25,6 @@ Data Engineering      →  Databricks, Spark ETL, Airflow, streaming pipelines
 AI/ML Engineering     →  Inference APIs, MLOps, TensorFlow, PyTorch
 LLM / GenAI           →  Production apps on Claude, prompt engineering, structured
                          outputs, RAG, agents/tool-use, evals, cost & latency tuning
-LLM Training          →  Hands-on AI/LLM enablement for companies in Kenya & Rwanda
 ```
 
 ---
@@ -80,7 +77,6 @@ LLM Training          →  Hands-on AI/LLM enablement for companies in Kenya & R
 ## Currently Building
 
 - **[Transcribez](https://transcribez.xyz)** — AI transcription, translation & CV-tailoring SaaS on Claude; live in production with 600+ users and ~100+ hours of audio processed through the pipeline
-- **VelocityStack** — [velocitystack.xyz](https://velocitystack.xyz): AI/LLM trainings and CTO-as-a-Service for companies across Kenya & Rwanda
 - **AI Automation** — Enterprise-grade customer engagement and agentic (MCP tool-use) workflows
 - **Data Platform** — Databricks lakehouse with streaming ETL pipelines
 - **Observability** — OpenTelemetry collectors with multi-backend routing
