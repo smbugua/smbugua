@@ -2,7 +2,7 @@
 
 **Senior Cloud & DevOps Architect** • 13+ Years Experience
 
-I design and scale cloud-native infrastructures across AWS, GCP, and Kubernetes. Currently focused on AI automation workflows, Databricks pipelines, and helping businesses modernize through CTO-as-a-Service consulting.
+I design and scale cloud-native infrastructures across AWS, GCP, and Kubernetes, and I build production **LLM / GenAI applications** on top of them. Currently shipping AI products on Anthropic's Claude, running AI automation workflows and Databricks pipelines, delivering LLM trainings for teams across Kenya & Rwanda, and helping businesses modernize through CTO-as-a-Service consulting.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](http://linkedin.com/in/simon-mbugua-dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:smbugua11@gmail.com)
@@ -17,6 +17,9 @@ DevOps & Platform     →  Terraform, GitOps, CI/CD pipelines, zero-downtime dep
 Kubernetes            →  Production clusters (EKS/GKE), Helm, operators, service mesh
 Data Engineering      →  Databricks, Spark ETL, Airflow, streaming pipelines
 AI/ML Engineering     →  Inference APIs, MLOps, TensorFlow, PyTorch
+LLM / GenAI           →  Production apps on Claude, prompt engineering, structured
+                         outputs, RAG, agents/tool-use, evals, cost & latency tuning
+LLM Training          →  Hands-on AI/LLM enablement for companies in Kenya & Rwanda
 ```
 
 ---
@@ -46,6 +49,14 @@ AI/ML Engineering     →  Inference APIs, MLOps, TensorFlow, PyTorch
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
 
+**LLM / GenAI**
+
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?logo=anthropic&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+
 ---
 
 ## Certifications
@@ -60,7 +71,9 @@ AI/ML Engineering     →  Inference APIs, MLOps, TensorFlow, PyTorch
 
 ## Currently Building
 
-- **AI Automation** — Enterprise-grade customer engagement workflows
+- **[Transcribez](https://transcribez.xyz)** — AI transcription, translation & CV-tailoring SaaS on Claude; live in production with 600+ users and ~100+ hours of audio processed through the pipeline
+- **VelocityStack** — [velocitystack.xyz](https://velocitystack.xyz): AI/LLM trainings and CTO-as-a-Service for companies across Kenya & Rwanda
+- **AI Automation** — Enterprise-grade customer engagement and agentic (MCP tool-use) workflows
 - **Data Platform** — Databricks lakehouse with streaming ETL pipelines
 - **Observability** — OpenTelemetry collectors with multi-backend routing
 - **Platform Engineering** — Self-service developer tooling and GitOps workflows
