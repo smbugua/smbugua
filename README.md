@@ -1,11 +1,19 @@
 # Simon Mbugua
 
-**Senior Cloud & DevOps Architect** • 13+ Years Experience
+**Senior Cloud & DevOps Architect & AI/LLM Engineer** • 13+ Years Experience
 
 I design and scale cloud-native infrastructures across AWS, GCP, and Kubernetes, and I build production **LLM / GenAI applications** on top of them. Currently shipping AI products on Anthropic's Claude, running AI automation workflows and Databricks pipelines, delivering LLM trainings for teams across Kenya & Rwanda, and helping businesses modernize through CTO-as-a-Service consulting.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](http://linkedin.com/in/simon-mbugua-dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:smbugua11@gmail.com)
+
+---
+
+## Featured
+
+**[Transcribez](https://transcribez.xyz)** — AI transcription, translation & CV-tailoring SaaS built on Anthropic's Claude. Live in production with **600+ users** and **~100+ hours of audio** processed through the LLM pipeline. Prompt engineering, structured/segment outputs, multi-language translation, anti-hallucination guardrails, and model routing (Sonnet/Haiku) for quality-vs-cost.
+
+**[VelocityStack](https://velocitystack.xyz)** — my firm: production AI/LLM trainings and CTO-as-a-Service for companies across **Kenya & Rwanda**.
 
 ---
 
